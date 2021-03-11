@@ -1,0 +1,22 @@
+.home {
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v408-aum-01-silhouettecity_2.jpg?w=1300&dpr=1&fit=default&crop=default&q=80&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=846ee2aeb9d13b2ce3b34bdaf4496f39);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 10em;
+    color: black;
+    text-align: center;
+    
+}
+
+.tours-btn{
+    font-size: 30px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 30px 80px;
+    margin: 10px;
+    cursor: pointer;
+    margin-top: 50px;
+    background-color: whitesmoke;
+}

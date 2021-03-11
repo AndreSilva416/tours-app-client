@@ -1,0 +1,11 @@
+.navbtn {
+    display: flex;
+    position: absolute;
+    right: 20px;
+}
+
+.signbtn {
+    display: flex;
+    position: absolute;
+    right: 20px;
+}

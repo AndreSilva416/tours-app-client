@@ -1,0 +1,13 @@
+.editform {
+    align-items: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 80px ;
+    
+}
+
+.inputedit {
+    width: 800px;
+}

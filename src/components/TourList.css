@@ -1,0 +1,16 @@
+
+.tourlist {
+    padding: 40px;
+}
+
+.tours {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.findtour {
+    display: flex;
+    justify-content: center;
+}
