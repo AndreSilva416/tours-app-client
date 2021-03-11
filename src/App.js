@@ -6,7 +6,7 @@ import config from './config'
 import MyNav from "./components/MyNav"
 import SignIn from "./components/SignIn"
 import SignUp from "./components/SingUp"
-import Profile from "./components/Profile"
+
 import TourList from "./components/TourList"
 import TourDetails from "./components/TourDetails"
 import AddForm from "./components/AddForm"
