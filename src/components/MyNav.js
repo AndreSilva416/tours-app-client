@@ -16,7 +16,7 @@ function MyNav(props) {
               <Link  style={{marginLeft: '10px'}}  to="/">Home</Link>
               <div className="navbtn">
               <Link  style={{marginLeft: '10px'}}  to="/addform">Create Tour</Link>
-              <Link  style={{marginLeft: '10px'}}  to="/profile">Profile</Link>
+        
               <button style={{marginLeft: '10px'}} onClick={props.onLogout}>Logout</button>
               </div>
              </> 

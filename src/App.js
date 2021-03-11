@@ -211,9 +211,6 @@ class App extends Component {
             <Route path="/tourlist" render={(routeProps) => {
               return <TourList tourlist={this.state.tours} />
             }}/>
-            <Route path="/profile" render={(routeProps) => {
-              return <Profile />
-            }}/>
             <Route path="/tourDetails/:tourId" render={(routeProps) => {
               return <TourDetails onDelete={this.handleDelete} onEdit={this.handleEditTour} {...routeProps} />
             }}/>

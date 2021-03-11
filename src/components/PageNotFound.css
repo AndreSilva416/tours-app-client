@@ -1,7 +1,4 @@
 .pagenotfound {
     text-align: center;
-    background-image: url(https://image.freepik.com/free-vector/funny-error-404-background-design_1167-219.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100%;
+    padding-top: 80px;
 }
